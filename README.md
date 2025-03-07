@@ -1,6 +1,3 @@
-# Create README.txt file with the provided content
-
-readme_content = """\
 # Circle Calculator App 🟠📏  
 
 ## Description  
